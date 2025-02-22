@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: E:\PROJECTS\New folder\PCB1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcb1-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=pcb1-rectholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb1-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=pcb1-roundholes-plated.tx1|DrillLayers=gp1,gp2,gbl
